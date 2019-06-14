@@ -1,7 +1,7 @@
 const decodePolyline = require('decode-google-map-polyline');
 
 const baseURL=(process.env.NODE_ENV === "production")
-    ?""
+    ?"https://rome2sweden.herokuapp.com"
     :""
 
 export function get_r2r(origin, destination, currencyCode, callback=(e)=>(e)) {
