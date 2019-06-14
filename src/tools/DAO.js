@@ -1,8 +1,11 @@
 const decodePolyline = require('decode-google-map-polyline');
 
+const baseURL=(process.env.NODE_ENV === "production")
+    ?""
+    :""
 
 export function get_r2r(origin, destination, currencyCode, callback=(e)=>(e)) {
-    return fetch(`api/r2r/${origin}/${destination}/${currencyCode}`)
+    return fetch(`${baseURL}/api/r2r/${origin}/${destination}/${currencyCode}`)
         // .then(d => {
         //     console.log(d)
         //     return d
@@ -82,7 +85,7 @@ export function get_r2r(origin, destination, currencyCode, callback=(e)=>(e)) {
 
 export function get_CC(callback=(e)=>(e)) {
     
-    fetch(`api2/CC`)
+    fetch(`${baseURL}/api2/CC`)
         // .then(d => {
         //     console.log(d)
         //     return d
