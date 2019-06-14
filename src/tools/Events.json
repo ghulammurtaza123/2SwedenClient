@@ -1,0 +1,691 @@
+[
+   
+    {
+        "date": "07/02/2024",
+        "events": {
+            "s": [],
+            "å": [
+                {
+                    "name": "Luge",
+                    "isMedal": false
+                }
+            ],
+            "f": [
+                {
+                    "name": "Ski Jumping",
+                    "isMedal": false
+                },
+                {
+                    "name": "Biathlon",
+                    "isMedal": false
+                }
+            ]
+        }
+    },
+    {
+        "date": "08/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                }
+            ],
+            "å": [
+                {
+                    "name": "Alpine Skiing",
+                    "isMedal": false
+                },
+                {
+                    "name": "Luge",
+                    "isMedal": false
+                }
+            ],
+            "f": [
+                {
+                    "name": "Biathlon",
+                    "isMedal": false
+                },
+                {
+                    "name": "Ski Jumping",
+                    "isMedal": false
+                }
+            ]
+        }
+    },
+    {
+        "date": "09/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Figure Skating",
+                    "isMedal": false
+                },
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                },
+                {
+                    "name": "Ceremonies",
+                    "isMedal": false
+                }
+            ],
+            "å": [
+                {
+                    "name": "Luge",
+                    "isMedal": false
+                },
+                {
+                    "name": "Freestyle Skiing",
+                    "isMedal": false
+                },
+                {
+                    "name": "Alpine Skiing",
+                    "isMedal": false
+                }
+            ],
+            "f": []
+        }
+    },
+    {
+        "date": "10/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                },
+                {
+                    "name": "Ice Hockey",
+                    "isMedal": false
+                },
+                {
+                    "name": "Short Track Speed Skating",
+                    "isMedal": true
+                },
+                {
+                    "name": "Speed Skating",
+                    "isMedal": true
+                }
+            ],
+            "å": [
+                {
+                    "name": "Alpine Skiing",
+                    "isMedal": false
+                },
+                {
+                    "name": "Luge",
+                    "isMedal": false
+                },
+                {
+                    "name": "Snowboard",
+                    "isMedal": false
+                }
+            ],
+            "f": [
+                {
+                    "name": "Biathlon",
+                    "isMedal": true
+                },
+                {
+                    "name": "Cross-Country Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Ski Jumping",
+                    "isMedal": true
+                }
+            ]
+        }
+    },
+    {
+        "date": "11/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Speed Skating",
+                    "isMedal": true
+                },
+                {
+                    "name": "Ice Hockey",
+                    "isMedal": false
+                },
+                {
+                    "name": "Figure Skating",
+                    "isMedal": false
+                },
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                }
+            ],
+            "å": [
+                {
+                    "name": "Snowboard",
+                    "isMedal": true
+                },
+                {
+                    "name": "Luge",
+                    "isMedal": true
+                },
+                {
+                    "name": "Freestyle Skiing",
+                    "isMedal": true
+                }
+            ],
+            "f": [
+                {
+                    "name": "Ski Jumping",
+                    "isMedal": false
+                },
+                {
+                    "name": "Nordic Combined",
+                    "isMedal": false
+                },
+                {
+                    "name": "Cross-Country Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Biathlon",
+                    "isMedal": true
+                }
+            ]
+        }
+    },
+    {
+        "date": "12/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                },
+                {
+                    "name": "Figure Skating",
+                    "isMedal": true
+                },
+                {
+                    "name": "Ice Hockey",
+                    "isMedal": false
+                },
+                {
+                    "name": "Speed Skating",
+                    "isMedal": true
+                }
+            ],
+            "å": [
+                {
+                    "name": "Alpine Skiing",
+                    "isMedal": false
+                },
+                {
+                    "name": "Freestyle Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Luge",
+                    "isMedal": false
+                },
+                {
+                    "name": "Skeleton",
+                    "isMedal": false
+                },
+                {
+                    "name": "Snowboard",
+                    "isMedal": true
+                }
+            ],
+            "f": [
+                {
+                    "name": "Biathlon",
+                    "isMedal": true
+                },
+                {
+                    "name": "Nordic Combined",
+                    "isMedal": false
+                },
+                {
+                    "name": "Ski Jumping",
+                    "isMedal": true
+                }
+            ]
+        }
+    },
+    {
+        "date": "13/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Curling",
+                    "isMedal": true
+                },
+                {
+                    "name": "Ice Hockey",
+                    "isMedal": false
+                },
+                {
+                    "name": "Speed Skating",
+                    "isMedal": true
+                },
+                {
+                    "name": "Short Track Speed Skating",
+                    "isMedal": true
+                }
+            ],
+            "å": [
+                {
+                    "name": "Alpine Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Skeleton",
+                    "isMedal": false
+                },
+                {
+                    "name": "Luge",
+                    "isMedal": true
+                },
+                {
+                    "name": "Snowboard",
+                    "isMedal": true
+                }
+            ],
+            "f": [
+                {
+                    "name": "Biathlon",
+                    "isMedal": false
+                },
+                {
+                    "name": "Cross-Country Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Nordic Combined",
+                    "isMedal": false
+                }
+            ]
+        }
+    },
+    {
+        "date": "14/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                },
+                {
+                    "name": "Figure Skating",
+                    "isMedal": false
+                },
+                {
+                    "name": "Ice Hockey",
+                    "isMedal": false
+                },
+                {
+                    "name": "Speed Skating",
+                    "isMedal": true
+                }
+            ],
+            "å": [
+                {
+                    "name": "Luge",
+                    "isMedal": true
+                },
+                {
+                    "name": "Skeleton",
+                    "isMedal": false
+                },
+                {
+                    "name": "Snowboard",
+                    "isMedal": true
+                }
+            ],
+            "f": [
+                {
+                    "name": "Nordic Combined",
+                    "isMedal": true
+                },
+                {
+                    "name": "Ski Jumping",
+                    "isMedal": false
+                }
+            ]
+        }
+    },
+    {
+        "date": "15/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                },
+                {
+                    "name": "Figure Skating",
+                    "isMedal": true
+                },
+                {
+                    "name": "Ice Hockey",
+                    "isMedal": false
+                },
+                {
+                    "name": "Speed Skating",
+                    "isMedal": true
+                }
+            ],
+            "å": [
+                {
+                    "name": "Alpine Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Bobsleigh",
+                    "isMedal": false
+                },
+                {
+                    "name": "Freestyle Skiing",
+                    "isMedal": false
+                },
+                {
+                    "name": "Luge",
+                    "isMedal": true
+                },
+                {
+                    "name": "Skeleton",
+                    "isMedal": false
+                },
+                {
+                    "name": "Snowboard",
+                    "isMedal": true
+                }
+            ],
+            "f": [
+                {
+                    "name": "Biathlon",
+                    "isMedal": true
+                },
+                {
+                    "name": "Cross-Country Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Ski Jumping",
+                    "isMedal": false
+                }
+            ]
+        }
+    },
+    {
+        "date": "16/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                },
+                {
+                    "name": "Figure Skating",
+                    "isMedal": false
+                },
+                {
+                    "name": "Ice Hockey",
+                    "isMedal": false
+                },
+                {
+                    "name": "Speed Skating",
+                    "isMedal": true
+                }
+            ],
+            "å": [
+                {
+                    "name": "Alpine Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Bobsleigh",
+                    "isMedal": false
+                },
+                {
+                    "name": "Freestyle Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Skeleton",
+                    "isMedal": true
+                },
+                {
+                    "name": "Snowboard",
+                    "isMedal": true
+                }
+            ],
+            "f": [
+                {
+                    "name": "Biathlon",
+                    "isMedal": false
+                },
+                {
+                    "name": "Cross-Country Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Ski Jumping",
+                    "isMedal": false
+                }
+            ]
+        }
+    },
+    {
+        "date": "17/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                },
+                {
+                    "name": "Figure Skating",
+                    "isMedal": true
+                },
+                {
+                    "name": "Ice Hockey",
+                    "isMedal": false
+                },
+                {
+                    "name": "Short Track Speed Skating",
+                    "isMedal": true
+                }
+            ],
+            "å": [
+                {
+                    "name": "Alpine Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Bobsleigh",
+                    "isMedal": false
+                },
+                {
+                    "name": "Freestyle Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Skeleton",
+                    "isMedal": true
+                }
+            ],
+            "f": [
+                {
+                    "name": "Biathlon",
+                    "isMedal": true
+                },
+                {
+                    "name": "Cross-Country Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Nordic Combined",
+                    "isMedal": false
+                },
+                {
+                    "name": "Ski Jumping",
+                    "isMedal": true
+                }
+            ]
+        }
+    },
+    {
+        "date": "18/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                },
+                {
+                    "name": "Ice Hockey",
+                    "isMedal": false
+                },
+                {
+                    "name": "Speed Skating",
+                    "isMedal": true
+                }
+            ],
+            "å": [
+                {
+                    "name": "Alpine Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Bobsleigh",
+                    "isMedal": false
+                },
+                {
+                    "name": "Freestyle Skiing",
+                    "isMedal": true
+                }
+            ],
+            "f": [
+                {
+                    "name": "Biathlon",
+                    "isMedal": true
+                },
+                {
+                    "name": "Cross-Country Skiing",
+                    "isMedal": true
+                },
+                {
+                    "name": "Nordic Combined",
+                    "isMedal": false
+                },
+                {
+                    "name": "Ski Jumping",
+                    "isMedal": false
+                }
+            ]
+        }
+    },
+    {
+        "date": "19/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                },
+                {
+                    "name": "Figure Skating",
+                    "isMedal": false
+                },
+                {
+                    "name": "Ice Hockey",
+                    "isMedal": false
+                },
+                {
+                    "name": "Speed Skating",
+                    "isMedal": true
+                }
+            ],
+            "å": [
+                {
+                    "name": "Alpine Skiing",
+                    "isMedal": false
+                },
+                {
+                    "name": "Bobsleigh",
+                    "isMedal": true
+                },
+                {
+                    "name": "Freestyle Skiing",
+                    "isMedal": false
+                },
+                {
+                    "name": "Snowboard",
+                    "isMedal": false
+                }
+            ],
+            "f": [
+                {
+                    "name": "Biathlon",
+                    "isMedal": false
+                },
+                {
+                    "name": "Nordic Combined",
+                    "isMedal": false
+                },
+                {
+                    "name": "Ski Jumping",
+                    "isMedal": true
+                }
+            ]
+        }
+    },
+    {
+        "date": "20/02/2024",
+        "events": {
+            "s": [
+                {
+                    "name": "Curling",
+                    "isMedal": false
+                },
+                {
+                    "name": "Figure Skating",
+                    "isMedal": true
+                },
+                {
+                    "name": "Ice Hockey",
+                    "isMedal": false
+                },
+                {
+                    "name": "Short Track Speed Skating",
+                    "isMedal": true
+                }
+            ],
+            "å": [
+                {
+                    "name": "Alpine Skiing",
+                    "isMedal": false
+                },
+                {
+                    "name": "Bobsleigh",
+                    "isMedal": false
+                },
+                {
+                    "name": "Freestyle Skiing",
+                    "isMedal": true
+                }
+            ],
+            "f": [
+                {
+                    "name": "Biathlon",
+                    "isMedal": true
+                },
+                {
+                    "name": "Nordic Combined",
+                    "isMedal": true
+                }
+            ]
+        }
+    }
+]
